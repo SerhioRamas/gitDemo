@@ -1,2 +1,4 @@
-# Dasdfasfasd.
+# Коммент норм.
 
+x = 222
+print(x)
